@@ -1,1 +1,4 @@
-body{background: url(FUNDO.jpg);}
+body{background: url(FUNDO.jpg);
+background-size: cover
+background-repeat: no repeat;
+}
