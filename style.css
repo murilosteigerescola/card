@@ -11,7 +11,7 @@ background-repeat: no repeat;
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: rgb(102, 71, 131);
+    background-color: rgb(16, 82, 0);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33%-6rem);
@@ -47,7 +47,7 @@ background-repeat: no repeat;
    
 }
 .cartao__conteudo__resposta p{
-    color:  rgb(211, 95, 95);
+    color:  rgb(97, 216, 0);
     font-weight: 700;
 }
 .cartao:hover .cartao__conteudo{
@@ -66,7 +66,7 @@ background-repeat: no repeat;
 
 footer{
     background-color: black;
-    color: rgb(231, 82, 82);
+    color: rgb(0, 255, 64);
     position: fixed;
     bottom: 0;
     width: 100%;
